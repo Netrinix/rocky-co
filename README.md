@@ -10,6 +10,3 @@ My name is Netrinix.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocky-co&layout=compact&title_color=CC77AA&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5)]()
 
-![](https://github.com/rocky-co/gh-stats/blob/master/generated/languages.svg)
-
-![](https://github.com/rocky-co/gh-stats/blob/master/generated/overview.svg)
